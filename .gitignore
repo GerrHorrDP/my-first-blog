@@ -6,3 +6,8 @@ venv
 db.sqlite3
 /static
 .DS_Store
+nk4w.txt
+nk4w.txt.pub
+sudoku4worku
+sudoku4worku.pub
+.gitignore
